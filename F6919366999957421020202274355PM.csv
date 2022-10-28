@@ -1,0 +1,20 @@
+"Year","CITATION","SAMPLE NAME","UNIQUE_ID","SIO2(WT%)","TIO2(WT%)","AL2O3(WT%)","FE2O3(WT%)","FEOT(WT%)","FEO(WT%)","CAO(WT%)","MGO(WT%)","MNO(WT%)","K2O(WT%)","NA2O(WT%)","P2O5(WT%)","H2OP(WT%)","H2OM(WT%)","LOI(WT%)","CR(PPM)","CO(PPM)","NI(PPM)","CU(PPM)","ZN(PPM)","RB(PPM): altern. values or methods","","","","SR(PPM): altern. values or methods","","","","Y(PPM)","ZR(PPM)","NB(PPM)","BA(PPM)","LA(PPM)","CE(PPM)","ND(PPM)",
+"2001"," [10638] IACUMIN P. (2001)","samp. A50","","69.71","0.34","16.08","0","2.64","2.64","3.79","1.09","0.03","1.48","4.73","0.11","","","0.86","1","","2","","","37","XRF","31.83","TIMS_ID","1021","XRF","1057.71","TIMS_ID","3","80","3","913","14","28","9",
+"2001"," [10638] IACUMIN P. (2001)","samp. A44","","65.82","0.55","15","0.68","5.29","4.68","4.66","2.48","0.11","1.57","4.28","0.24","","","1.66","19","","10","","","80","XRF","13.37","TIMS_ID","751","XRF","551.99","TIMS_ID","16","108","11","567","16","35","15",
+"2001"," [10638] IACUMIN P. (2001)","samp. LP3","","54.81","0.94","19.69","","7.44","","8.99","3.05","0.13","1.34","3.05","0.45","","","","54","","7","","","39","XRF","37.18","TIMS_ID","862","XRF","899.7","TIMS_ID","12","62","11","432","15","46","19",
+"2001"," [10638] IACUMIN P. (2001)","samp. SL1","","49.45","0.44","14.59","","8.42","","13.71","11.22","0.16","0.5","1.21","0.19","","","","327","","40","","","13","XRF","64.54","TIMS_ID","548","XRF","671.64","TIMS_ID","8","51","7","301","19","47","28",
+"1974"," [19586] TERUGGI M. E. (1974)","samp. T.30","","47.76","0.58","18.95","1.67","","6.49","12.9","6.08","0.17","1.04","2.28","0.01","2.09","0.16","","80","96","93","165","165","","","","","","","","","","","","","","","",
+"1974"," [19586] TERUGGI M. E. (1974)","samp. T.117","","47.84","0.58","16.52","0.18","","11.04","11.9","5.1","0.21","2","2.88","0.03","1.97","0.07","","112","90","93","173","164","","","","","","","","","","","","","","","",
+"1974"," [19586] TERUGGI M. E. (1974)","samp. T.135","","47","0.68","18.4","0.64","","9.98","11.9","5.7","0.2","1.28","2.8","0.05","2.22","0.08","","57","90","78","65","136","","","","","","","","","","","","","","","",
+
+Download from GEOROC - Geochemical Database
+Date of Query: Thursday, October 20, 2022
+Please note: There is a List of your Query Criteria at the End of this Sheet.
+
+
+References:
+"[10638] IACUMIN P., PICCIRILLO E. M., GIRARDI V. A. V., TEIXEIRA W., BELLIENI G., ECHEVESTE H., FERNANDEZ R., PINESE J. P. P., RIBOT A.:   EARLY PROTEROZOIC CALC-ALKALINE AND MIDDLE PROTEROZOIC THOLEIITIC DYKE SWARMS FROM CENTRAL-EASTERN ARGENTINA: PETROLOGY, GEOCHEMISTRY, SR-ND ISOTOPES AND TECTONIC IMPLICATIONS |  J. PETROL. 42    [2001]  2109-2143  | doi: 10.1093/petrology/42.11.2109"
+"[19586] TERUGGI M. E., KILMURRAY J. O., RAPELA C. W., SALDA L. D.:   BASIC DIKES OF THE SIERRAS DE TANDIL |  REV. ASOC. GEOL. ARGENTINA 29    [1974]  41-60 "
+
+Criteria:
+QUERY - BY - GEOLOGICAL - SETTING: - INTRAPLATE - VOLCANICS - - - RIO - DE - LA - PLATA - CRATON - - - ARGENTINA_PROTEROZOIC - - - NO - FURTHER - CONSTRAINTS - - - SAMPLE - CRITERIA - (COMBINED - WITH - AND): - - - ROCK - TYPE: - PLUTONIC - ROCK - 
